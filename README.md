@@ -1,0 +1,2 @@
+# Playlist History
+Playlist history project files are to be stored here for historical purposes. At the moment, the actual code lives on a Google Sheets AppScript document which uses the .gs (Google Script) format. The AppScript and any other projects related to the playlist history function are to be stored in this repository. 
